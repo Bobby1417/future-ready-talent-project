@@ -1,11 +1,12 @@
 # future-ready-talent
 My Future Ready Talent Internship Project
 
-# [Bobby's Topic Listing: Empowering Students through Comprehensive Topic Exploration](https://polite-forest-0701e2210.4.azurestaticapps.net)
+# [Bobby's Topic Listing: Empowering Students through Comprehensive Topic Exploration](https://zealous-smoke-0e0308310.4.azurestaticapps.net/)
 
-Project Link : https://polite-forest-0701e2210.4.azurestaticapps.net
+Project Link : https://zealous-smoke-0e0308310.4.azurestaticapps.net/
 
 Demo Video : https://vimeo.com/885472127?share=copy
+             https://vimeo.com/890097412?share=copy (User Login Functionality is Fixed Now)
 
 ### Web Technologies used :
 HTML, CSS, JS, Bootstrap
@@ -15,6 +16,45 @@ VS-Code
 
 ### Primary Azure Technology :
 Static Web Apps , Visual Studio Code , Microsoft Azure Portal
+### 1. Azure Static Web Apps :
+Azure Static Web Apps played a role in effortlessly deploying and managing my internship project website. This serverless platform eliminated the need for me to handle any infrastructure allowing me to concentrate on developing the web apps functionality. The integration of the platform with GitHub made it possible for automated deployment whenever I made changes to the code repository resulting in a development process.
+
+Using Azure Static Web Apps provided benefits, including;
+
+ *Simplified Deployment;*The platform simplified the deployment process enabling me to deploy the website without dealing with servers.
+
+ *Continuous Integration and Delivery (CI/CD);* The seamless integration with GitHub automatic deployment ensuring that any code modifications were promptly reflected on the website.
+
+ *Global Distribution;* Azure Static Web Apps utilized Azures network to deliver the website rapidly and reliably worldwide providing an optimal user experience.
+
+ *Cost Effectiveness;* With its pay as you go pricing model I only paid for the resources used making it a cost effective solution, for my project.
+### 2. Visual Studio Code :
+Visual Studio Code played a role in my web development process by serving as a reliable and user friendly code editor. Its intuitive interface, support for extensions and seamless integration with various development tools made it the perfect choice for my project.
+
+I found several key features of Visual Studio Code to be particularly advantageous;
+
+ *User Friendly Interface;* The clean and intuitive interface simplified the editing and navigation of code allowing me to focus on the development process of dealing with complicated menus.
+
+ *Extension Support;* The wide range of extensions provided added functionality and support for different programming languages and frameworks catering to the specific requirements of my project.
+
+ *Integration with Development Tools;* Visual Studio Code seamlessly integrated with development tools like Git, debuggers and linters. This integration streamlined my workflow enabling code editing and debugging.
+
+ *Compatibility across Platforms;* Thanks, to its platform compatibility I could work on my project from any device irrespective of the operating system.
+ ### 3. Microsoft Azure Portal :
+The Microsoft Azure Portal acted as a hub for managing all my Azure resources, including Static Web Apps and Visual Studio Codespaces. Its user friendly interface and comprehensive management tools made it easier to configure, monitor and troubleshoot my projects Azure resources.
+
+Using the Azure Portal offered advantages for overseeing my projects Azure resources;
+
+ *Centralized Management;* The centralized management console streamlined the process of handling all the Azure resources providing a platform to manage the projects infrastructure.
+
+ *User Friendly Interface;* The intuitive interface simplified finding, configuring and managing Azure resources without needing in depth knowledge of Azure CLI commands.
+
+ *Real time Monitoring;* By leveraging real time monitoring capabilities of the portal I could proactively. Resolve any issues with my Azure resources to ensure optimal performance and availability.
+
+ *Cost Management;* The comprehensive cost management tools provided insights into my projects usage and expenses related to Azure resources. This enabled me to optimize costs and identify areas for savings.
+
+In summary effectively utilizing tools such as Azure Static Web Apps, Visual Studio Code along, with the Microsoft Azure Portal played a role in the successful development and deployment of my internship project.
+These Azure services offer an effective platform, for creating, overseeing and monitoring my web application guaranteeing a smooth user experience.
 
 ### Industry :
 Ed-Tech
