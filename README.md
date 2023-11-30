@@ -21,7 +21,7 @@ Azure Static Web Apps played a role in effortlessly deploying and managing my in
 
 Using Azure Static Web Apps provided benefits, including;
 
- *Simplified Deployment;*The platform simplified the deployment process enabling me to deploy the website without dealing with servers.
+ *Simplified Deployment;* The platform simplified the deployment process enabling me to deploy the website without dealing with servers.
 
  *Continuous Integration and Delivery (CI/CD);* The seamless integration with GitHub automatic deployment ensuring that any code modifications were promptly reflected on the website.
 
@@ -53,8 +53,8 @@ Using the Azure Portal offered advantages for overseeing my projects Azure resou
 
  *Cost Management;* The comprehensive cost management tools provided insights into my projects usage and expenses related to Azure resources. This enabled me to optimize costs and identify areas for savings.
 
-In summary effectively utilizing tools such as Azure Static Web Apps, Visual Studio Code along, with the Microsoft Azure Portal played a role in the successful development and deployment of my internship project.
-These Azure services offer an effective platform, for creating, overseeing and monitoring my web application guaranteeing a smooth user experience.
+****In summary effectively utilizing tools such as Azure Static Web Apps, Visual Studio Code along, with the Microsoft Azure Portal played a role in the successful development and deployment of my internship project.
+These Azure services offer an effective platform, for creating, overseeing and monitoring my web application guaranteeing a smooth user experience.****
 
 ### Industry :
 Ed-Tech
