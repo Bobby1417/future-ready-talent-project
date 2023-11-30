@@ -123,3 +123,4 @@ Screenshot (7) : https://ibb.co/hmt9wYs
 Screenshot (8) : https://ibb.co/L8ycty2
 
 Screenshot (9) : https://ibb.co/XtLwPqQ
+![Screenshot 2023-11-17 065229](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/86c410a4-c61a-4607-9551-fc0a67db7a18)
