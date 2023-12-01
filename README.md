@@ -104,23 +104,15 @@ Bobby's Topic Listing directly addresses the problem statement/opportunity area 
 
 In summary, Bobby's Topic Listing is a well-defined project that addresses a clear need in the educational landscape. It provides students with a powerful tool to explore their academic interests and personal curiosities, fostering deeper engagement with learning and inspiring them to pursue their intellectual passions.
 
-# Screenshots : (Refresh The Link 2 times If it Doesn't Work)
-
-Screenshot (1) : https://ibb.co/LCNppS9
-
-Screenshot (2) : https://ibb.co/v3VGYsk
-
-Screenshot (3) : https://ibb.co/gVbPFyS
-
-Screenshot (4) : https://ibb.co/58SQhyg
-
-Screenshot (5) : https://ibb.co/Jy3kTkV
-
-Screenshot (6) : https://ibb.co/tPtWVsK
-
-Screenshot (7) : https://ibb.co/hmt9wYs
-
-Screenshot (8) : https://ibb.co/L8ycty2
-
-Screenshot (9) : https://ibb.co/XtLwPqQ
+# Screenshots :
 ![Screenshot 2023-11-17 065229](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/86c410a4-c61a-4607-9551-fc0a67db7a18)
+![Screenshot 2023-11-17 065357](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/b200858b-6388-4187-9555-6d09f5c744c1)
+![Screenshot 2023-11-17 065312](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/5496e1e8-21c3-4475-b421-562b2f788dc0)
+![Screenshot 2023-11-17 065331](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/
+![Screenshot 2023-12-01 053338](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/57bc9290-7502-4d8b-96c1-168c3b30898d)
+a32c1809-7e6c-4b10-83c5-b98e8ad067a3)
+![Screenshot 2023-11-17 065421](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/8455600f-6d82-4076-ad03-80b65a947055)
+![Screenshot 2023-11-17 065435](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/765eb33f-a47d-4014-8c46-84d0134a3b4a)
+![Screenshot 2023-11-17 065449](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/785e7d9e-ce99-4f71-8b3a-088b9c4a7a48)
+![Screenshot 2023-11-17 065515](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/54eb3f52-a702-4e06-aad9-3da8a51ff587)
+![Screenshot 2023-11-17 065539](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/d2434d62-b83b-4154-9ab7-02917acf501b)
