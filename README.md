@@ -108,9 +108,8 @@ In summary, Bobby's Topic Listing is a well-defined project that addresses a cle
 ![Screenshot 2023-11-17 065229](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/86c410a4-c61a-4607-9551-fc0a67db7a18)
 ![Screenshot 2023-11-17 065357](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/b200858b-6388-4187-9555-6d09f5c744c1)
 ![Screenshot 2023-11-17 065312](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/5496e1e8-21c3-4475-b421-562b2f788dc0)
-![Screenshot 2023-11-17 065331](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/
+![Screenshot 2023-11-17 065331](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/a32c1809-7e6c-4b10-83c5-b98e8ad067a3)
 ![Screenshot 2023-12-01 053338](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/57bc9290-7502-4d8b-96c1-168c3b30898d)
-a32c1809-7e6c-4b10-83c5-b98e8ad067a3)
 ![Screenshot 2023-11-17 065421](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/8455600f-6d82-4076-ad03-80b65a947055)
 ![Screenshot 2023-11-17 065435](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/765eb33f-a47d-4014-8c46-84d0134a3b4a)
 ![Screenshot 2023-11-17 065449](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/785e7d9e-ce99-4f71-8b3a-088b9c4a7a48)
