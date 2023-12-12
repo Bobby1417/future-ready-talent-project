@@ -151,10 +151,7 @@ strong {
   position: relative;
 }
 
-.tab-content {
-  background-color: var(--white-color);
-  border-radius: var(--border-radius-medium);
-}
+
 
 .nav-tabs {
   border-bottom: 1px solid #ecf3f2;
