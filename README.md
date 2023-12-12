@@ -6,7 +6,7 @@ My Future Ready Talent Internship Project
 Project Link : https://zealous-smoke-0e0308310.4.azurestaticapps.net/
 
 Demo Video : https://vimeo.com/885472127?share=copy                       
-Demo Video New : https://vimeo.com/890097412?share=copy (User Login Functionality is Fixed Now)
+Demo Video New : https://vimeo.com/890097412?share=copy (User Sign Up and Login Functionality is Added Now)
 
 ### Web Technologies used :
 HTML, CSS, JS, Bootstrap
@@ -108,7 +108,7 @@ In summary, Bobby's Topic Listing is a well-defined project that addresses a cle
 ![Screenshot 2023-11-17 065229](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/86c410a4-c61a-4607-9551-fc0a67db7a18)
 ![Screenshot 2023-11-17 065357](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/b200858b-6388-4187-9555-6d09f5c744c1)
 ![Screenshot 2023-11-17 065331](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/a32c1809-7e6c-4b10-83c5-b98e8ad067a3)
-![Screenshot 2023-12-01 053338](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/57bc9290-7502-4d8b-96c1-168c3b30898d)
+![Screenshot 2023-12-13 052116](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/dddd0453-6d31-48b3-bf19-8c65faa99e14)
 ![Screenshot 2023-11-17 065421](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/8455600f-6d82-4076-ad03-80b65a947055)
 ![Screenshot 2023-11-17 065435](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/765eb33f-a47d-4014-8c46-84d0134a3b4a)
 ![Screenshot 2023-11-17 065449](https://github.com/Bobby1417/future-ready-talent-project/assets/112765444/785e7d9e-ce99-4f71-8b3a-088b9c4a7a48)
