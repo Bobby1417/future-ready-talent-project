@@ -6,7 +6,7 @@ My Future Ready Talent Internship Project
 Project Link : https://zealous-smoke-0e0308310.4.azurestaticapps.net/
 
 Demo Video : https://vimeo.com/885472127?share=copy                       
-Demo Video New : https://vimeo.com/890097412?share=copy (User Sign Up and Login Functionality is Added Now)
+Demo Video New : https://vimeo.com/893928079?share=copy (User Sign Up and Login Functionality is Added Now)
 
 ### Web Technologies used :
 HTML, CSS, JS, Bootstrap
